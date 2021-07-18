@@ -1,0 +1,28 @@
+.designBody {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0vh;
+    align-items: center;
+    justify-content: center;
+
+}
+.designButton{
+    background-color: chartreuse;
+    color: #000;
+    border:black;
+    font-size: 10vh;
+    padding: 20px,15px;
+    cursor: pointer;
+    border-radius: 6px;
+   
+}
+.designText{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000;
+    font-size: 22px;
+}
